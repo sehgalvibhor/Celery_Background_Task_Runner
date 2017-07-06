@@ -1,0 +1,7 @@
+flask
+flask-restful
+gevent
+gevent-websocket
+celery==3.1.20
+flask-redis
+webargs
